@@ -1,1 +1,3 @@
-web: gunicorn ep7_project.wsgi:application --log-file -
+web: gunicorn ep7_project.wsgi
+
+
