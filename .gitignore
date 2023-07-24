@@ -1,0 +1,26 @@
+# Arquivos gerados automaticamente
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Diretório de ambiente virtual
+venv/
+env/
+virtualenv/
+.venv/
+
+# Arquivos de configuração local
+settings.py
+local_settings.py
+
+# Diretório de logs e cache
+/logs/
+/cache/
+
+# Arquivos de mídia e estáticos gerados
+/media/
+/static/
+
+# Outros arquivos específicos do ambiente local
+.env
