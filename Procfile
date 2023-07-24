@@ -1,3 +1,3 @@
-web: gunicorn ep7_project.wsgi
+web: gunicorn e7-app.wsgi
 
 
